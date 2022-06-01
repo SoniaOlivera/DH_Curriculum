@@ -1,0 +1,32 @@
+/* CSS */
+
+/* TODOS LOS PARRAFOS */
+p{
+    color:#8cff00;
+    line-height: 40px;
+}
+
+/* PARRAFOS PRINCIALES */
+.principal{
+    background-color: rgb(0, 0, 0);
+}
+
+/* TITULOS */
+h1,h2{
+    color:coral !important;
+    text-align: center;
+}
+
+/* ELEMENTO CON ID */
+#elemento { 
+    background-color: yellow;
+    color: tomato;
+    font-size: 15px;
+}
+
+/* ELEMENTO CON ID */
+#parrafoDoble p{ 
+    background-color: rgb(118, 118, 118);
+    color: tomato;
+    font-size: 30px;
+}
